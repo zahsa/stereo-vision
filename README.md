@@ -1,0 +1,4 @@
+# stereo-vision
+A pair of pinhole cameras with opposite orientation are given as Figure 1 suggests. The cube is centered at origin with sides of length 2. Twelve more points are generated randomly inside the cube. The eight vertices of the cube plus the random points are taken as an object from which two photos are taken with from up and down views. Figure 1. The position of the stereo cameras in world coordinate Both cameras are calibrated and their intrinsic and extrinsic parameters are as follows: Abstract: In this project two stereo cameras are modeled, then the fundamental matrix and epipolar lines are computed. Also, the process of Reconstruction of the position of each point in the world frame is done. In addition, sensitivity of the computation in the case of noise and low resolution are considered and analyzed.
+
+https://www.researchgate.net/publication/281208291_Stereo_vision
